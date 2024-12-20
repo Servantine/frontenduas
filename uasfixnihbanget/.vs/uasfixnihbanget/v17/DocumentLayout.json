@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\apiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\models\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\models\\enrollments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\models\\registeruserroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\models\\registeruserroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|d:\\!kuliah\\sumpah frontend kek tai\\uasfixnihbanget\\uasfixnihbanget\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C49E0BE8-0DD9-4916-9990-493B6968D39B}|uasfixnihbanget\\uasfixnihbanget.csproj|solutionrelative:uasfixnihbanget\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "uasfixnihbanget\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T16:08:36.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Models\\Login.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Login.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:45:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enrollments.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Enrollments.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Models\\Enrollments.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Enrollments.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Models\\Enrollments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:45:47.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Apiservices.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Apiservices.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Apiservices.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Apiservices.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Apiservices.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:03:40.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "uasfixnihbanget\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:02:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "uasfixnihbanget\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:02:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Models\\Course.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Course.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:46:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Program.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Program.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Program.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:02:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\User.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Models\\User.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\User.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:45:56.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Components\\Routes.razor",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\Routes.razor",
+              "RelativeToolTip": "uasfixnihbanget\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:02:59.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Models\\LoginResponse.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:45:55.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registeruserroles.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Registeruserroles.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Models\\Registeruserroles.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Registeruserroles.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Models\\Registeruserroles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:45:55.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Models\\Categories.cs",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Models\\Categories.cs",
+              "RelativeToolTip": "uasfixnihbanget\\Models\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:45:46.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\App.razor",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Components\\App.razor",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\App.razor",
+              "RelativeToolTip": "uasfixnihbanget\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:02:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "uasfixnihbanget\\Components\\_Imports.razor",
+              "ToolTip": "D:\\!kuliah\\SUMPAH FRONTEND KEK TAI\\uasfixnihbanget\\uasfixnihbanget\\Components\\_Imports.razor",
+              "RelativeToolTip": "uasfixnihbanget\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T15:02:58.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
