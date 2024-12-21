@@ -1,0 +1,45 @@
+﻿@inject NavigationManager NavigationManager
+@page "/login"
+<h3>Login</h3>
+<EditForm Model="@loginModel" OnValidSubmit="HandleLogin" @formname="LoginForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="userName">userName:</label>
+        <InputText id="userName" @bind-Value="loginModel.userName" />
+    </div>
+    <div>
+        <label for="password">password:</label>
+        <InputText id="password" type="password" @bind-Value="loginModel.password" />
+    </div>
+    <button type="submit">Login</button>
+</EditForm>
+
+<p>@loginMessage</p>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    private string loginMessage;
+
+    private async Task HandleLogin()
+    {
+        using var httpClient = new HttpClient();
+        var response = await httpClient.PostAsJsonAsync("https://actbackendseervices.azurewebsites.net/api/login", loginModel);
+
+        if (response.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+            loginMessage = "Login failed. Please check your credentials.";
+        }
+    }
+
+    public class LoginModel
+    {
+        public string userName { get; set; }
+        public string password { get; set; }
+    }
+}
